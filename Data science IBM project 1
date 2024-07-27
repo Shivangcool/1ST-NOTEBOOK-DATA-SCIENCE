@@ -1,0 +1,262 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "4aa19f44-5b4b-4afd-a9a9-fda022f5c827",
+   "metadata": {},
+   "source": [
+    "#Exercise 1: Create a Jupyter Notebook\n",
+    "\n",
+    "DATA SCIENCE MODULE 6 PROJECT"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "43879432-4a94-4716-8d26-d7666a37a358",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "#Exercise 2 - Create a markdown cell with the title of the notebook.\n",
+    "\n",
+    "TITLE : DATA SCIENCE MODULE 6 PROJECT\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f3eee2b4-7b88-4dcc-9f77-fdf3b2c2cae0",
+   "metadata": {},
+   "source": [
+    "#Exercise 3 - Create a markdown cell for an introduction.\n",
+    "\n",
+    "\n",
+    "In this notebook, Data Science Tools and Ecosystem are Given.\n",
+    "Objectives:\n",
+    "\n",
+    "List popular languages that Data Scientists use.\n",
+    "List commonly used libraries used by Data Scientists.\n",
+    "Comment on Data Science tools."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dbd6d9f5-2c3b-431c-aa23-72688bea2788",
+   "metadata": {},
+   "source": [
+    "#Exercise 4 - Create a markdown cell to list data science languages.\n",
+    "\n",
+    "\n",
+    "Data science languages are:\n",
+    "\n",
+    "1.Python.\n",
+    "\n",
+    "2.R.\n",
+    "\n",
+    "3.SQL.\n",
+    "\n",
+    "4.Java.\n",
+    "\n",
+    "5.Julia.\n",
+    "\n",
+    "6.Scala.\n",
+    "\n",
+    "7.C/C++.\n",
+    "\n",
+    "8.JavaScript\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bec0dc2c-c452-4ac0-8f4c-152378a1949d",
+   "metadata": {},
+   "source": [
+    "#Exercise 5 - Create a markdown cell to list data science libraries.\n",
+    "\n",
+    "\n",
+    "Some of the commonly used libraries used by Data Scientists include:\n",
+    "\n",
+    "\n",
+    "1.TensorFlow.\n",
+    "\n",
+    "2.NumPy.\n",
+    "\n",
+    "3.SciPy.\n",
+    "\n",
+    "4.Pandas.\n",
+    "\n",
+    "5.Matplotlib.\n",
+    "\n",
+    "6.Keras.\n",
+    "\n",
+    "7.SciKit-Learn.\n",
+    "\n",
+    "8.PyTorch.\n",
+    "\n",
+    "9.Scrapy.\n",
+    "\n",
+    "10.BeautifulSoup.\n",
+    "\n",
+    "11.LightGBM.\n",
+    "\n",
+    "12.ELI5.\n",
+    "\n",
+    "13.Theano.\n",
+    "\n",
+    "14.NuPIC.\n",
+    "\n",
+    "15.Ramp.\n",
+    "\n",
+    "16.Pipenv.\n",
+    "\n",
+    "17.Bob.\n",
+    "\n",
+    "18.PyBrain.\n",
+    "\n",
+    "19.Caffe2.\n",
+    "\n",
+    "20.Chainer.\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "df399d61-b2a4-473f-a3bd-d80e5f049804",
+   "metadata": {},
+   "source": [
+    "#Exercise 6 - Create a markdown cell with a table of Data Science tools.\n",
+    "Data Science Tools\t\t\n",
+    "\n",
+    "SAS. It is one of those data science tools which are specifically designed for statistical operation\t\t\n",
+    "\n",
+    "Apache Spark\t\t\n",
+    "\n",
+    "BigML\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5b28c8bd-e9d4-45c4-86c3-60c715b5e709",
+   "metadata": {},
+   "source": [
+    "#Exercise 7 - Create a markdown cell introducing arithmetic expression examples.\n",
+    "\n",
+    "Below are a few examples of evaluating arithmetic expressions in Python\n",
+    "# Arithmetic operations\n",
+    "code = compile(\"5 + 4\", \"<string>\", \"eval\")\n",
+    "eval(code)\n",
+    "# Result: 9\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "39eb7c7e-589a-47ae-9623-08d0e5a384ee",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#Exercise 8 - Create a code cell to multiply and add numbers.\n",
+    "\n",
+    "#This a simple arithmetic expression to mutiply then add integers\n",
+    "\n",
+    "(3*4)+5\n",
+    "# Result: 17"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "31a8bc0f-9098-40ac-b8c5-9f201adc56c9",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0 days, 3.3333333333333335 hours, 0 mins. \n"
+     ]
+    }
+   ],
+   "source": [
+    "#Exercise 9 - Create a code cell to convert minutes to hours. (2 pts)\n",
+    "\n",
+    "#This will convert 200 minutes to hours by diving by 60\n",
+    "\n",
+    "days = 0\n",
+    "hours = 0\n",
+    "mins = 0\n",
+    "\n",
+    "time = 200\n",
+    "#days = time / 1440\n",
+    "leftover_minutes = time % 1440\n",
+    "hours = leftover_minutes / 60\n",
+    "#mins = time - (days*1440) - (hours*60)\n",
+    "print(str(days) + \" days, \" + str(hours) + \" hours, \" + str(mins) +  \" mins. \")\n",
+    "\n",
+    "# Result: 3.3333333333333335 hours"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8afd8873-2e17-4831-a532-58fb16cdb024",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "Exercise 10 -Insert a markdown cell to list Objectives.\n",
+    "\n",
+    "Below the introduction cell created in Exercise 3, insert a new markdown cell to list the objectives that this notebook covered (i.e. some of the key takeaways from the course). In this new cell start with an introductory line titled: Objectives: in bold font. Then using an unordered list (bullets) indicate 3 to 5 items covered in this notebook, such as List popular languages for Data Science.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "31a764fb-89f7-4bf4-a112-52afb0266513",
+   "metadata": {},
+   "source": [
+    "#Exercise 11 - Create a markdown cell to indicate the Author’s name.\n",
+    "\n",
+    "Author:\n",
+    "Shivang shukla\n",
+    "Data scientist "
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
